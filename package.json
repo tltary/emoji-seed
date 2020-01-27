@@ -1,0 +1,25 @@
+{
+  "name": "emoji-seed",
+  "version": "1.1.0",
+  "description": "",
+  "main": "dist/bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tltary",
+  "keywords": [
+    "Emoji",
+    "seed",
+    "generator",
+    "Empji seed generator"
+  ],
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tltary/emoji-seed.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tltary/emoji-seed/issues"
+  },
+  "homepage": "https://github.com/tltary/emoji-seed#readme"
+}
